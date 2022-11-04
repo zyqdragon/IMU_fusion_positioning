@@ -1,1 +1,1 @@
-# basic dead reckoning based on GPS and magnometer
+# basic dead reckoning based on GPS and magnetometer
