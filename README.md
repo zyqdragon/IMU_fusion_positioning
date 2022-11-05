@@ -1,4 +1,4 @@
 # modules of fusion position
-- verified by myself  
-  
-  good example
+- The following website shows the import tutorial:
+https://github.com/shenshikexmu/ImuCalibration-Poistion
+https://github.com/xioTechnologies/Gait-Tracking-With-x-IMU
